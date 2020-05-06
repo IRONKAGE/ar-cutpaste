@@ -1,6 +1,19 @@
 # AR Cut & Paste
 
-An AR+ML prototype that allows cutting elements from your surroundings and pasting them in an image editing software.
+:ukraine: По суті - це плагін, який дозволяє ваші реальні об'єкти переносити у віртуальне середовище PhotoShop
+
+Слід виконати 4 простих кроки:
+
+1️⃣ Налаштуйте PhotoShop
+
+2️⃣ Слід запустити BASNet-HTTP
+
+3️⃣ Далі налаштувати і запустити локальний сервер
+
+4️⃣ І на останок - налаштувати та запустити додаток на телефоні
+
+
+:us: An AR+ML prototype that allows cutting elements from your surroundings and pasting them in an image editing software.
 
 Although only Photoshop is being handled currently, it may handle different outputs in the future.
 
